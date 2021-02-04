@@ -219,7 +219,7 @@
 </p>
 
 <p align="center"> 
-  <img src="gif/Pacman Logo.jpg" alt="Pacman Logo" width="80px" height="80px">
+  <img src="gif/Pacman Logo.png" alt="Pacman Logo" width="80px" height="80px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
