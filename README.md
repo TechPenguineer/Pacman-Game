@@ -218,10 +218,6 @@
 <img src="gif/Suboptimal Search.gif" alt="Animated gif Suboptimal Search" height="282px" width="637">
 </p>
 
-<p align="center"> 
-  <img src="gif/Pacman Logo.png" alt="Pacman Logo" width="80px" height="80px">
-</p>
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- CREDITS -->
